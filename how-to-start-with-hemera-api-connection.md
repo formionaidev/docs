@@ -1,6 +1,6 @@
-# 🔑 How to Start with Hemera? API Connection?
+# 🔑 How to Start with Formion AI? API Connection?
 
-**It's important to have some USDT balance ( 10$ at least)  on your Futures account on Binance ( or UTA on Bybit ) for Hemera to be able to check your API keys properly!**
+**It's important to have some USDT balance ( 10$ at least) on your Futures account on Binance ( or UTA on Bybit ) for Hemera to be able to check your API keys properly!**
 
 ## For Binance:
 
@@ -12,18 +12,17 @@ Then click on **Create API** button and choose **System generated**, put any nam
 
 <figure><img src=".gitbook/assets/binance2.png" alt=""><figcaption></figcaption></figure>
 
-You will get **API keys** but you need now to edit it and put a **whitelisted IPs** from Hemera settings page and then check **Enable Futures** and **Enable Spot & Margin Trading,** save it and copy both **APY key** and **Secret key** and put into **Settings** page on **Hemera**, fill your **password** and click on **Submit.**
+You will get **API keys** but you need now to edit it and put a **whitelisted IPs** from Hemera settings page and then check **Enable Futures** and **Enable Spot & Margin Trading,** save it and copy both **APY key** and **Secret key** and put into **Settings** page on **Formion**, fill your **password** and click on **Submit.**
 
 <figure><img src=".gitbook/assets/binance3.png" alt=""><figcaption></figcaption></figure>
 
-Now go to **Hemera** [Settings page ](https://hemeratrading.net/user/settings)choose **Binance** as exchange and copy **whitelist IPs:**
+Now go to **Formion** [Settings page ](https://hemeratrading.net/user/settings)choose **Binance** as exchange and copy **whitelist IPs:**
 
 <figure><img src=".gitbook/assets/settings.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/biannce4.png" alt=""><figcaption></figcaption></figure>
 
-**Note: Its important to change mode to HEDGE and Perpetual Margin Mode to CROSS for each USDT pair on Binance Futures!**\
-
+**Note: Its important to change mode to HEDGE and Perpetual Margin Mode to CROSS for each USDT pair on Binance Futures!**\\
 
 <figure><img src=".gitbook/assets/sett1.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,8 +31,6 @@ Now go to **Hemera** [Settings page ](https://hemeratrading.net/user/settings)ch
 <figure><img src=".gitbook/assets/hedge1.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/cross.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## For Bybit:
 
@@ -61,13 +58,12 @@ Make sure you have checked all those, just Account Transfer and Subaccount Trans
 
 <figure><img src=".gitbook/assets/bybit4.png" alt=""><figcaption></figcaption></figure>
 
-Now you will get API key and API Secret and copy both and paste to Hemera Settings page, fill with your password and Submit it!
+Now you will get API key and API Secret and copy both and paste to Formion Settings page, fill with your password and Submit it!
 
 <figure><img src=".gitbook/assets/bybit5.png" alt=""><figcaption></figcaption></figure>
 
 \
-Also make sure its Hedge Mode and Cross Margin mode enabled for all USDT pairs!\
-
+Also make sure its Hedge Mode and Cross Margin mode enabled for all USDT pairs!\\
 
 <figure><img src=".gitbook/assets/cross0.png" alt=""><figcaption></figcaption></figure>
 
@@ -79,16 +75,13 @@ Also make sure its Hedge Mode and Cross Margin mode enabled for all USDT pairs!\
 
 Please check Apply to all USDT pairs!\
 \
-To test everything is passed well go to Hemera Portfolio Settings\
-and you will see something like this for Binance\
-
+To test everything is passed well go to Formion Portfolio Settings\
+and you will see something like this for Binance\\
 
 <figure><img src=".gitbook/assets/portfolio.png" alt=""><figcaption></figcaption></figure>
 
 Or for Bybit
 
 <figure><img src=".gitbook/assets/port2.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### If you are able to see your portfolio, congrats! You are now ready to use Hemera Trading App!
