@@ -1,11 +1,11 @@
 # 🪄 Vision
 
 \
-The Vision of Hemera Trading
+The Vision of Formion
 
 Empowering Traders Across the Globe
 
-Hemera Trading envisions a world where each trader, from a beginner to a professional, is able to access the most advanced automated trading tools, advanced insights from AI, and a supportive community geared towards a financial breakthrough.
+Formion envisions a world where each trader, from a beginner to a professional, is able to access the most advanced automated trading tools, advanced insights from AI, and a supportive community geared towards a financial breakthrough.
 
 **Key Pillars of Our Vision:**
 
@@ -26,13 +26,13 @@ Hemera Trading envisions a world where each trader, from a beginner to a profess
 
 **Making It Humane:**
 
-* _Referral Program:_ Incentivize loyal users to help expand the Hemera Trading Community.
+* _Referral Program:_ Incentivize loyal users to help expand the Formion Community.
 * _Learning Resources:_ Educate traders through webinars, guides, and a vibrant online community.
 
 **Human Success and Inclusivity:**
 
 * _License Guarantee:_ Bots with automatically renewed licenses will never let the user lose money until a profit is realized.
-* _HEM Token Utility:_ Unlock financial opportunities through staking, farming, and exclusive research insights.
+* _FOM Token Utility:_ Unlock financial opportunities through staking, farming, and exclusive research insights.
 
 **Our Future Aspirations:**
 
@@ -53,6 +53,6 @@ Hemera Trading envisions a world where each trader, from a beginner to a profess
 **Decentralization and Trust:**
 
 * _Smart Contracts:_ Utilize DeFi principles to form trustless, transparent trading systems.
-* _Governance:_ Implement a community-driven governance model that gives users a voice in Hemera's development.
+* _Governance:_ Implement a community-driven governance model that gives users a voice in Formion's development.
 
-**Restate:** Hemera Trading is more than just another trading platform; it's a step closer to creating an inclusive, innovative, and secure crypto trading landscape. By harnessing the power of automation, artificial intelligence, and community, Hemera Trading is redefining financial success for traders worldwide. Together, we envision a world where everyone has the resources and opportunity to achieve financial independence through smart trading.
+**Restate:** Formion is more than just another trading platform; it's a step closer to creating an inclusive, innovative, and secure crypto trading landscape. By harnessing the power of automation, artificial intelligence, and community, Formion is redefining financial success for traders worldwide. Together, we envision a world where everyone has the resources and opportunity to achieve financial independence through smart trading.

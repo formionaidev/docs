@@ -1,8 +1,8 @@
 # 🚩 Roadmap
 
-Roadmap for Hemera Trading
+Roadmap for Formion AI
 
-**2024 Q3-Q4: Expansion and Advanced Features**
+**2025 Q3-Q4: Expansion and Advanced Features**
 
 1. **Exchange Support Expansion:**
    * **Bybit Integration:** Full support for Bybit trading, for smart manual trading.
@@ -23,7 +23,7 @@ Roadmap for Hemera Trading
 **2025 Q1-Q2: Community Empowerment and Feature Expansion**
 
 1. **User-Created Strategies and Indicators:**
-   * **Custom Indicators:** Allow users to build, backtest, and automate their own strategies using Hemera's advanced AI tools.
+   * **Custom Indicators:** Allow users to build, backtest, and automate their own strategies using Formion advanced AI tools.
 2. **AI Technical Analysis v2 (TA):**
    * Launch comprehensive market analysis and trends detection using AI models version 2
 3. **Referral Program Expansion:**
@@ -37,7 +37,7 @@ Roadmap for Hemera Trading
    * **DeFi Trading Bots:** Integrate DeFi protocols for seamless yield farming.
    * **AI-Powered Prediction Models:** Refine AI models for predictive market analysis.
 3. **Decentralization and Governance:**
-   * Introduce decentralized governance using the HEM Token.
+   * Introduce decentralized governance using the FOM Token.
    * Enable community-driven development through DAO structures.
 4. **Smart Contracts and Trustless Trading:**
    * Utilize smart contracts for transparent, trustless trading and fee distribution.

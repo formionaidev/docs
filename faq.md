@@ -47,7 +47,7 @@ FOM token is launched on the SUI blockchain, ensuring compatibility with SUI-bas
    * Currently, Formion supports Binance and Bybit for both spot and futures trading.
 2. **How does Formion ensure the security of user data?**
    * Formion uses double-layer encryption for sensitive data like API keys and provides 2FA for additional account protection.
-3. **How can I start using Formion Trading?**
+3. **How can I start using Formion?**
    * To start using Formion, sign up on our platform, connect your exchange account via API keys, and choose a pricing plan. Explore various bots and features, including a 7-day trial of the Premium license. Select a trading bot or copy trading strategy that suits your needs, or utilize Manual Smart Trading with the help of AI to optimize your trading performance.
 4. **Is Formion Trading suitable for beginners?**
    * Yes, Formion is designed for all kinds of traders, from beginners to professionals.

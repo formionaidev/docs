@@ -1,9 +1,9 @@
 # 👨‍🔬 Thesis
 
-Thesis for Hemera Trading
+Thesis for Formion
 
 **Introduction:**\
-Cryptocurrency markets are characterized by rapid technological changes, high volatility, and unmatched opportunities. Hemera Trading recognizes the potential of this fast-paced space and aims to empower traders, investors, and developers with an all-inclusive ecosystem for automated trading, artificial intelligence-based insights, and financial growth.
+Cryptocurrency markets are characterized by rapid technological changes, high volatility, and unmatched opportunities. Formion recognizes the potential of this fast-paced space and aims to empower traders, investors, and developers with an all-inclusive ecosystem for automated trading, artificial intelligence-based insights, and financial growth.
 
 **Problem Statement:**
 
@@ -20,7 +20,7 @@ In the crypto markets, traders often incur huge losses due to poor risk manageme
 AI and machine learning tools are very expensive and too sophisticated for most small and mid-sized traders.
 
 **Solution:**\
-The Hemera Trading Ecosystem provides solutions to these challenges with the following components:
+The Formion Ecosystem provides solutions to these challenges with the following components:
 
 **Automated Crypto Trading Bots:**
 
@@ -50,7 +50,7 @@ The Hemera Trading Ecosystem provides solutions to these challenges with the fol
 * _Staking:_ Stake HEM tokens to earn extra rewards and gain exclusive access to advanced tools.
 * _Liquidity Mining:_ Provide liquidity and yield through farming.
 * _Access to Hidden Gems:_ Early insights into new and promising tokens.
-* _(All features above are in development, coming soon_ �&#xDD1C;_)_
+* _(All features above are in development, coming soon_ ��_)_
 
 ~~**License Guarantee:**~~**&#x20;(We are moving to fees on profit system instead, pay only if you have profit)**
 
@@ -74,17 +74,17 @@ The Hemera Trading Ecosystem provides solutions to these challenges with the fol
 **Crypto Trading Platforms:**
 
 * _Basic Bots:_ Binance, Bybit, and other exchanges offer basic bots.
-* _Hemera Trading:_ Provides a broader ecosystem with AI and copy trading features.
+* _Formion:_ Provides a broader ecosystem with AI and copy trading features.
 
 **Automated Trading Solutions:**
 
 * _Mizar, Pionex, 3Commas, etc.:_ Provide automation but lack AI and are very expensive.
-* _Hemera Trading:_ Integrates automation, AI, and is much cheaper compared to competitors.
+* _Formion:_ Integrates automation, AI, and is much cheaper compared to competitors.
 
 **AI-Based Analytics:**
 
 * _Santiment, IntoTheBlock, etc.:_ Offer advanced analytics but lack automation.
-* _Hemera Trading:_ Integrates analytics directly into automated strategies.
+* _Formion:_ Integrates analytics directly into automated strategies.
 
 **Growth and Roadmap:**\
 **Short-Term (Q1-Q2 2024):**
@@ -100,9 +100,9 @@ The Hemera Trading Ecosystem provides solutions to these challenges with the fol
 
 **Long-Term (2025):**
 
-* Establish Hemera Trading as a leading platform for automated crypto trading and AI-powered insights.
+* Establish Formion as a leading platform for automated crypto trading and AI-powered insights.
 * Continuous improvement of AI algorithms and trading strategies.
 
 **Conclusion:**\
 \
-Hemera Trading is poised to revolutionize the crypto trading landscape by providing traders with an all-encompassing platform that offers automation, AI insights, and financial rewards. By addressing key pain points and enabling comprehensive trading solutions, Hemera Trading will continue to grow and thrive in this fast-paced and rapidly evolving market.
+&#xNAN;_**Formion**_ is poised to revolutionize the crypto trading landscape by providing traders with an all-encompassing platform that offers automation, AI insights, and financial rewards. By addressing key pain points and enabling comprehensive trading solutions, Formion will continue to grow and thrive in this fast-paced and rapidly evolving market.
