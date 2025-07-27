@@ -24,7 +24,7 @@ Formion is constantly evolving. Current features in development include:
 
 * AI Portfolio Builder: Diverse portfolio insights with AI.
 * AI Risk Management: Smart strategies to safeguard investments.
-* Farming and Liquidity Mining for HEM Token.
+* Farming and Liquidity Mining for FOM Token.
 * Adding More Exchanges and Bots (ATA, DCA, GRID, AI...).
 * Create Your Own Indicators.
 
@@ -142,25 +142,25 @@ FOM token is launched on the SUI blockchain, ensuring compatibility with SUI-bas
 5. **How is the performance fee calculated in copy trading?**
    * The performance fee is usually a percentage of the profits made while copying a trader, and it is automatically deducted.
 
-**HEM Token:**
+**FOM Token:**
 
-1. **What is HEM Token, and what is its utility?**
-   * HEM Token is the native token of Formion. It can be used for staking, farming, accessing exclusive AI tools, and earning rewards through the referral program.
-2. **What are the benefits of staking HEM Tokens?**
+1. **What is FOM Token, and what is its utility?**
+   * FOM Token is the native token of Formion. It can be used for staking, farming, accessing exclusive AI tools, and earning rewards through the referral program.
+2. **What are the benefits of staking FOM Tokens?**
    * **Access to Hidden Gems:** Exclusive insights into new and promising tokens.
    * **AI Tools:** Unlock advanced AI features like Portfolio Builder and Risk Management.
    * **Higher Referral Rewards:** Earn additional referral rewards.
-3. **How can I buy HEM Tokens?**
-   * You can buy HEM Tokens on decentralized exchanges like Uniswap or through our Pre-Sale event.
-4. **What is the total supply of HEM Tokens?**
-   * The total supply of HEM Tokens is 1,000,000,000.
-5. **Is there a buy/sell fee for HEM Tokens?**
+3. **How can I buy FOM Tokens?**
+   * You can buy FOM Tokens on decentralized exchanges like Cetus or Turbos Finance or through our Pre-Sale event.
+4. **What is the total supply of FOM Tokens?**
+   * The total supply of FOM Tokens is 1,000,000,000.
+5. **Is there a buy/sell fee for FOM Tokens?**
    * **Sell Fee (0%): Ownership renounced**
    * **Buy Fee:** None
-6. **What exchanges will list HEM Tokens after the pre-sale?**
-   * HEM Tokens will initially be available on decentralized exchanges like Uniswap, with plans to list on centralized exchanges in the future.
-7. **Is the HEM Token audited?**
-   * Yes, the HEM Token smart contract has been audited to ensure security and compliance.
+6. **What exchanges will list FOM Tokens after the pre-sale?**
+   * FOM Tokens will initially be available on decentralized exchanges like Cetus/Turbos Finance, with plans to list on centralized exchanges in the future.
+7. **Is the FOM Token audited?**
+   * Yes, the FOM Token smart contract has been audited to ensure security and compliance.
 
 **Referral Program:**
 
