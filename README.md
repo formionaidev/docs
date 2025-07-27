@@ -1,12 +1,12 @@
-# 📖 Formion Trading Ecosystem
+# 📖 Formion AI Ecosystem
 
 ## 👀 Overview
 
 {% hint style="success" %}
-🚀 Welcome to Hemera! Let's optimize your trading experience together.
+🚀 Welcome to Formion AI! Let's optimize your trading experience together.
 {% endhint %}
 
-🔍 **What is Hemera Trading?**\
+🔍 **What is Formion?**\
 \
 Formion AI is an innovative crypto, forex and CFD ecosystem designed to revolutionize how traders engage with the markets by using advanced AI tools and automated solutions. Our platform combines powerful AI-driven modules, visual trading capabilities, and customizable bots to make trading smarter, easier, and more effective for users at every level.\
 \
@@ -99,7 +99,7 @@ We offer everything from market analysis and strategy creation to real-time trad
    • Interactive dashboards: P/L breakdowns, R : R ratios, win rates\
    • Tagging & notes to capture strategy context and emotion
 8. 📶 **Advanced Indicators:**
-   * **Hemera Indicator v1:** Automate your strategies with our indicator.
+   * **Formion Indicator v1:** Automate your strategies with our indicator.
    * **Bullish Trend Catcher Indicator:** A smart trading aid using intersections of 20 technical indicators to determine the % bullish trend.
 9. 📰 **Altcoin Analysis and AI Tools:**
    * **Crypto News with AI Analysis:** Daily news and market analysis 3 times a day.
