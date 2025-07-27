@@ -48,20 +48,17 @@ For additional questions, refer to our [FAQ page](https://docs.hemeratrading.net
 
 Right now we support BTC, SOL, RUNE and TRB symbols for Smart Bots on Bybit exchange only!\
 \
-You need to calculate your size properly  based on dragdown and risk.\
+You need to calculate your size properly based on dragdown and risk.\
 \
-&#xNAN;_&#x46;or example let's assume you have 1k equity, you want to use 10x leverage, your margin should be somewhere 10-50% from your equity to be safe, so on this case it's around $10 to $50 which will make size around $100 up to $500 per symbol! If you want to use more symbols into the same account, you should use fixed size instead 'Portfolio % or cummulative profit'._\
+\&#xNAN;_For example let's assume you have 1k equity, you want to use 10x leverage, your margin should be somewhere 10-50% from your equity to be safe, so on this case it's around $10 to $50 which will make size around $100 up to $500 per symbol! If you want to use more symbols into the same account, you should use fixed size instead 'Portfolio % or cummulative profit'._\
 \
-_Note: If your risk tolerance is low do not use more then 10% position size, if you prefer more risk use from 20 to max 50%, do not use over 50% if you don't have enogh margin to cover potential losses._\
+&#xNAN;_&#x4E;ote: If your risk tolerance is low do not use more then 10% position size, if you prefer more risk use from 20 to max 50%, do not use over 50% if you don't have enogh margin to cover potential losses._\
 \
-_Smart Bots are designed to work both in strong bull, strong bear market and durinng_ accumulation phase too!\
-
+&#xNAN;_&#x53;mart Bots are designed to work both in strong bull, strong bear market and durinng_ accumulation phase too!\\
 
 <figure><img src=".gitbook/assets/solanashortterm (1).png" alt=""><figcaption><p>Solana SOL Short-term</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/solanalongterm (2).png" alt=""><figcaption><p>Solana SOL Long-term</p></figcaption></figure>
-
-
 
 <figure><img src=".gitbook/assets/trbshortterm (1).png" alt=""><figcaption><p>TRB Short-Term</p></figcaption></figure>
 
@@ -75,11 +72,8 @@ _**If you want to use full amount as position size ( 100% Portfolio percentage )
 
 <figure><img src=".gitbook/assets/smartbotsettings.png" alt=""><figcaption><p>How to set-up Smart Bot, last field TP levels is not important for SmartBots anymore as its automated!</p></figcaption></figure>
 
-
-
 #### Conclusion 🏁
 
 Hemera's Smart Bots provide traders with the tools and insights needed to automate their trading strategies effectively. Whether you are new to trading or an experienced investor, our Smart Bots offer advanced features to enhance your market performance. Join Hemera today and take advantage of automated, indicator-based trading.
 
 For more details, please visit our [Dashboard](https://hemeratrading.net/smart-bots).
-
