@@ -8,7 +8,7 @@
 * [🧠 AI Bots](ai-bots.md)
 * [💹 Smart Bots](smart-bots.md)
 * [💡 How to Automate Your Trades with TradingView Alerts on Formion 📈🔔](how-to-automate-your-trades-with-tradingview-alerts-on-hemera.md)
-* [🪙 HEM token](hem-token.md)
+* [🪙 FOM token](hem-token.md)
 * [📄 FAQ](faq.md)
 * [👨‍🔬 Thesis](thesis.md)
 * [🪄 Vision](vision.md)
