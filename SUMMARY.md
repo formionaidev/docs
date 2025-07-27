@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📖 Hemera Trading Ecosystem](README.md)
+* [📖 Formion Trading Ecosystem](README.md)
 * [🔑 How to Start with Hemera? API Connection?](how-to-start-with-hemera-api-connection.md)
 * [🤖 Hemera Smart Trading](hemera-smart-trading.md)
 * [👾 Hemera Trade Vision](hemera-trade-vision.md)
