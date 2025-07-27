@@ -1,4 +1,4 @@
-# 📖 Hemera Trading Ecosystem
+# 📖 Formion Trading Ecosystem
 
 ## 👀 Overview
 
@@ -8,28 +8,38 @@
 
 🔍 **What is Hemera Trading?**\
 \
-Hemera Trading is an innovative crypto ecosystem designed to revolutionize how traders engage with the crypto market by using advanced AI tools and automated solutions. Our platform combines powerful AI-driven tools, visual trading capabilities, and customizable bots to make trading smarter, easier, and more effective for users at every level. \
+Formion AI is an innovative crypto, forex and CFD ecosystem designed to revolutionize how traders engage with the markets by using advanced AI tools and automated solutions. Our platform combines powerful AI-driven modules, visual trading capabilities, and customizable bots to make trading smarter, easier, and more effective for users at every level.\
 \
 We offer everything from market analysis and strategy creation to real-time trading execution on popular exchanges like Binance and Bybit, ensuring that both new and experienced traders have the resources they need to thrive in the fast-paced world of cryptocurrency.
 
 ⚡️ **An ecosystem where you can:**
 
-* 🤖 **Use Advanced AI Tools**: Our platform features AI-driven tools like **Hemera VisionTrade**, which allows you to trade by analyzing charts and images directly from Telegram. This tool identifies key patterns and indicators, helping you make smarter trading decisions based on visual data.
-* 📈 **Predict Market Movements**: With **Hemera AI Trade Genius**, you can predict future price movements for specific tokens. This tool provides insights into where the market is likely to go and suggests the best strategies to use, helping you make well-informed trading decisions.
-* 🧠 **Access In-Depth Market Analysis**: **Hemera Research AI RAG LLM** offers deep research and insights from various sources, including news, social media, and blockchain data. It includes features like a Portfolio Builder tailored to your capital and risk level, as well as Sentiment, Fundamental, and Technical Analysis to help you stay ahead of market trends.
+* 🤖 **Use Advanced AI Tools**: Our platform features AI-driven tools like **Formion Vision Trade**, which allows you to trade by analyzing charts and images directly from Telegram. This tool identifies key patterns and indicators, helping you make smarter trading decisions based on visual data.
+* 📈 **Predict Market Movements**: With **Formion AI Trade Genius**, you can predict future price movements for specific tokens. This tool provides insights into where the market is likely to go and suggests the best strategies to use, helping you make well-informed trading decisions.
+* 🧠 **Access In-Depth Market Analysis**: **Formion Research AI RAG LLM** offers deep research and insights from various sources, including news, social media, and blockchain data. It includes features like a Portfolio Builder tailored to your capital and risk level, as well as Sentiment, Fundamental, and Technical Analysis to help you stay ahead of market trends.
 * 📲 **Trade on Telegram**: Our Telegram bot supports multiple languages, enabling traders from around the world to execute trades and manage strategies directly. You can also set up and automate your own trading strategies, such as DCA (Dollar-Cost Averaging) and Grid, making trading more accessible and customized to your needs.
+* 🪙 **Coins Hub & Token Listings**\
+  Research, compare, and list tokens with live price, AI Score, liquidity and community reviews; manage your project’s listing and marketing packages straight from the platform.
+* 📊 **Volatility Scanner & Alerts**\
+  Monitor real-time volatility spikes across crypto, forex and commodities; receive custom alerts to seize breakout or mean-reversion opportunities.
+* 📰 **AI Impact News**\
+  Stay ahead of critical events with our categorized news feed, scored by expected market impact and delivered to your dashboard or chat.
 * 🤝 **Copy Successful Traders**: Follow and copy trades from experienced traders with our copy trading features. This allows you to learn from the best and potentially increase your profits by mirroring successful trading strategies.
 * 🦾 **Automate Your Trading**: Create customizable bots to automate your trading strategies according to your preferences. Our platform makes it easy to set up bots that execute trades automatically, helping you take advantage of market opportunities without constant monitoring.
-* 🔧 **Design and Optimize Strategies**: Build, backtest, and refine your own trading strategies using our robust set of tools. Hemera Trading provides the resources needed to develop and optimize strategies tailored to your trading goals.
+* 🔧 **Visual Strategy Builder:** Design, backtest and refine your own trading strategies with our Custom Strategy Builder — featuring drag-and-drop rule creation, parameter sweeps and instant performance reports. Formion AI equips you with everything you need to develop and optimize strategies tailored to your trading goals.
+* 🤖 **TraderGPT Assistant**\
+  Ask your personal GPT for strategy feedback, code snippets or market explanations—powered by our domain-tuned language model.
 
-🔮 **Exclusive AI Features with HEM Token:**
+
+
+🔮 **Exclusive AI Features with FOM Token:**
 
 * 📈 **AI Portfolio Builder:** Construct a diverse portfolio with AI insights.
 * 📊 **AI Technical Analysis (TA):** Comprehensive market analysis and trends.
 * ⚠️ **AI Risk Management:** Smart strategies to safeguard your investments.
 * 🤖 **AI Smart Trading**: Optimize your entry/exit points with precision using your own trained bot.
 * 🚀 **Bullish Trend Catcher Indicator:** Identify and capitalize on bullish trends.
-* &#x20;📢 **Crypto News and Sentiment :** Stay informed with timely updates and market sentiment analysis.
+* 📢 **Crypto News and Sentiment :** Stay informed with timely updates and market sentiment analysis.
 * 🔥 Trending Tokens: Receive insights on trending tokens with bullish scores.
 
 🤝 **Copy Trading and Analytics:**
@@ -76,21 +86,14 @@ We offer everything from market analysis and strategy creation to real-time trad
 **Future Plans:**
 
 * **🔧 Create Your Own Indicators**: Soon, we will enable users to create their own indicators and strategies and automate them with the help of AI.
-* **🔒 HEM Token Staking**: Users who stake HEM tokens receive additional benefits and access to exclusive tools like Hidden Gems from the Hemera Research team, AI Portfolio Builder, AI Risk Management, and more.
-* **🌾 Farming and Liquidity Mining for HEM Token**: Enable users to earn rewards through farming and providing liquidity.
+* **🔒 FOM Token Staking**: Users who stake HEM tokens receive additional benefits and access to exclusive tools like Hidden Gems from the Hemera Research team, AI Portfolio Builder, AI Risk Management, and more.
+* **🌾 Farming and Liquidity Mining for FOM Token**: Enable users to earn rewards through farming and providing liquidity.
 * **🌐 Adding More Exchanges and Bots**: Expand trading support to more exchanges and provide new types of trading bots (ATA, DCA...)
-
-
-
 *   **Features in Development:**
 
     * 📈 **AI Portfolio Builder**: Diverse portfolio insights with AI.
     * ⚠️ **AI Risk Management**: Smart strategies to safeguard investments.
 
-    \
-
-
 
 
     <table><thead><tr><th width="279">Functionality</th><th width="115">HemeraAI</th><th>Mizar</th><th width="117">3Commas</th><th width="112">SpectreAI</th><th width="115">XPlusAI</th><th>Cornix</th><th width="146">Binance Bots</th><th>Bybit Bots</th><th width="81">Zignaly</th><th>CryptoHopper</th></tr></thead><tbody><tr><td><strong>Multiple Exchange Support</strong></td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td></tr><tr><td><strong>Automated Trading</strong></td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>AI Trading Tools ( Portfolio, Risk Managament)</strong></td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>❌</td><td>⌛</td><td>✅</td><td>❌</td><td>❌</td></tr><tr><td><strong>Copy Strategies</strong></td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>Advanced Analytics</strong></td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>✅</td></tr><tr><td><strong>Decentralized Trading</strong></td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr><tr><td><strong>Referral Program - Pasive Income</strong></td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>Trading via Telegram Bot</strong></td><td>✅</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>✅</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr><tr><td>( <strong>Smart ) Bots with TradingView</strong></td><td>✅</td><td>❌</td><td>✅</td><td>❌</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>❌</td><td>✅</td></tr><tr><td><strong>Futures/Margin/Spot Bots</strong></td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Personalized Trading Bot</td><td>⌛</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr><tr><td>Bot <strong>Performance Guarantee</strong></td><td>✅</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr><tr><td>Price Prediction Price ( SL/TP and Entry Price)</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr></tbody></table>
-
