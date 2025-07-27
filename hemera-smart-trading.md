@@ -4,7 +4,7 @@
 
 Formion Smart Trading is an AI-powered tool that enables users to leverage various approaches to advanced trading and investment assistance using AI.
 
-#### Components of the Hemera Smart Trading System
+#### Components of the Formion Smart Trading System
 
 **1. Formion** **AI Trade Genius 🤖**
 
@@ -35,9 +35,9 @@ Formion Smart Trading is an AI-powered tool that enables users to leverage vario
 * **How It Works**:
   1. **Prepare the Analysis Image**: Create or obtain a trading analysis with key information such as entry price, stop-loss (SL), and take-profit (TP) levels.
   2. **Send the Image**: Send the image with the trading analysis to the Formion bot via Telegram or another supported platform.
-  3. **Signal Recognition**: Hemera VisionTrade uses advanced image recognition technology to identify key trading signals from the image.
+  3. **Signal Recognition**: Formion VisionTrade uses advanced image recognition technology to identify key trading signals from the image.
   4. **Automatic Trade Execution**: The bot automatically executes the trade on your account, using the identified levels for entry, stop-loss, and take-profit.
-  5. **Tracking and Confirmation**: Receive confirmation of the executed trade and monitor the status through the Hemera platform or Telegram.
+  5. **Tracking and Confirmation**: Receive confirmation of the executed trade and monitor the status through the Formion platform or Telegram.
 
 ### Conclusion
 
