@@ -38,11 +38,14 @@ To automate your trades, you'll need to configure alerts on TradingView using Fo
    * Click on the `Alert` icon or right-click on your chart and select `Add Alert`.
    * Choose the condition based on your strategy (e.g., `Crossing`, `Moving Up`).
    * On message field put _<mark style="color:orange;">**`{{strategy.order.alert_message}}`**</mark>_
-3. **Webhook URL:**
-   * In the alert creation menu, find the `Webhook URL` field.
-   * Enter the Formionwebhook URL: `https://formion.ai/webhookformion.php`.
+3.  **Webhook URL:**
 
-<figure><img src=".gitbook/assets/alertwebhook.png" alt=""><figcaption><p>Make sure Webhook URL is https://hemeratrading.net/webhookhemera.php</p></figcaption></figure>
+    * In the alert creation menu, find the `Webhook URL` field.
+    * Enter the Formion webhook URL: `https://formion.ai/webhookformion.php`.
+
+
+
+<figure><img src=".gitbook/assets/99999.png" alt=""><figcaption></figcaption></figure>
 
 #### 4. Use Generated UUIDs in Alerts 🔑
 
