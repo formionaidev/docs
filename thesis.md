@@ -45,9 +45,9 @@ The Formion Ecosystem provides solutions to these challenges with the following 
 * For 11 new users, the user receives 11% more, and for every 10 new users after that, the user receives 1% more, up to a maximum of 30%. (Available)
 * Automated, decentralized system with instant payouts.
 
-**HEM Token Utility:**
+**FOM Token Utility:**
 
-* _Staking:_ Stake HEM tokens to earn extra rewards and gain exclusive access to advanced tools.
+* _Staking:_ Stake FOM tokens to earn extra rewards and gain exclusive access to advanced tools.
 * _Liquidity Mining:_ Provide liquidity and yield through farming.
 * _Access to Hidden Gems:_ Early insights into new and promising tokens.
 * _(All features above are in development, coming soon_ ��_)_

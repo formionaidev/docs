@@ -29,7 +29,7 @@
 ~~**Pre-Sale Details:**~~
 
 * ~~**Pre-Sale Allocation:** 0,000,000 FOM 🎯~~
-* ~~**Listing Rate:** 0,000 HEM per 1 FOM 📈~~
+* ~~**Listing Rate:** 0,000 FOM per 1 FOM 📈~~
 * ~~**Tokens for Pre-Sale:** 0,000,000 FOM  🏹~~
 * ~~**Tokens for Liquidity:** 0,000,000 FOM  💧~~
 * ~~**ETH Allocated for Liquidity:** 0 SUI 🌊~~
