@@ -52,7 +52,7 @@ Now go to Formion [Settings ](https://formion.ai/user/settings)page and choose B
 
 Now here its very important to check Read-Write permission mode and also enable Only IPs mode and your your copied IPs.
 
-<figure><img src=".gitbook/assets/bybit3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/newkey1.png" alt=""><figcaption></figcaption></figure>
 
 Make sure you have checked all those, just Account Transfer and Subaccount Transfer is not required!
 
@@ -60,7 +60,7 @@ Make sure you have checked all those, just Account Transfer and Subaccount Trans
 
 Now you will get API key and API Secret and copy both and paste to Formion Settings page, fill with your password and Submit it!
 
-<figure><img src=".gitbook/assets/bybit5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/newkey23.png" alt=""><figcaption></figcaption></figure>
 
 \
 Also make sure its Hedge Mode and Cross Margin mode enabled for all USDT pairs!\\
