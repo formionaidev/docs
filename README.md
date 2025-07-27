@@ -1,2 +1,96 @@
-# Page
+# 📖 Hemera Trading Ecosystem
+
+## 👀 Overview
+
+{% hint style="success" %}
+🚀 Welcome to Hemera! Let's optimize your trading experience together.
+{% endhint %}
+
+🔍 **What is Hemera Trading?**\
+\
+Hemera Trading is an innovative crypto ecosystem designed to revolutionize how traders engage with the crypto market by using advanced AI tools and automated solutions. Our platform combines powerful AI-driven tools, visual trading capabilities, and customizable bots to make trading smarter, easier, and more effective for users at every level. \
+\
+We offer everything from market analysis and strategy creation to real-time trading execution on popular exchanges like Binance and Bybit, ensuring that both new and experienced traders have the resources they need to thrive in the fast-paced world of cryptocurrency.
+
+⚡️ **An ecosystem where you can:**
+
+* 🤖 **Use Advanced AI Tools**: Our platform features AI-driven tools like **Hemera VisionTrade**, which allows you to trade by analyzing charts and images directly from Telegram. This tool identifies key patterns and indicators, helping you make smarter trading decisions based on visual data.
+* 📈 **Predict Market Movements**: With **Hemera AI Trade Genius**, you can predict future price movements for specific tokens. This tool provides insights into where the market is likely to go and suggests the best strategies to use, helping you make well-informed trading decisions.
+* 🧠 **Access In-Depth Market Analysis**: **Hemera Research AI RAG LLM** offers deep research and insights from various sources, including news, social media, and blockchain data. It includes features like a Portfolio Builder tailored to your capital and risk level, as well as Sentiment, Fundamental, and Technical Analysis to help you stay ahead of market trends.
+* 📲 **Trade on Telegram**: Our Telegram bot supports multiple languages, enabling traders from around the world to execute trades and manage strategies directly. You can also set up and automate your own trading strategies, such as DCA (Dollar-Cost Averaging) and Grid, making trading more accessible and customized to your needs.
+* 🤝 **Copy Successful Traders**: Follow and copy trades from experienced traders with our copy trading features. This allows you to learn from the best and potentially increase your profits by mirroring successful trading strategies.
+* 🦾 **Automate Your Trading**: Create customizable bots to automate your trading strategies according to your preferences. Our platform makes it easy to set up bots that execute trades automatically, helping you take advantage of market opportunities without constant monitoring.
+* 🔧 **Design and Optimize Strategies**: Build, backtest, and refine your own trading strategies using our robust set of tools. Hemera Trading provides the resources needed to develop and optimize strategies tailored to your trading goals.
+
+🔮 **Exclusive AI Features with HEM Token:**
+
+* 📈 **AI Portfolio Builder:** Construct a diverse portfolio with AI insights.
+* 📊 **AI Technical Analysis (TA):** Comprehensive market analysis and trends.
+* ⚠️ **AI Risk Management:** Smart strategies to safeguard your investments.
+* 🤖 **AI Smart Trading**: Optimize your entry/exit points with precision using your own trained bot.
+* 🚀 **Bullish Trend Catcher Indicator:** Identify and capitalize on bullish trends.
+* &#x20;📢 **Crypto News and Sentiment :** Stay informed with timely updates and market sentiment analysis.
+* 🔥 Trending Tokens: Receive insights on trending tokens with bullish scores.
+
+🤝 **Copy Trading and Analytics:**
+
+* **Connect Your Exchange (Binance/Bybit):** 🔀👥
+* Link your exchange via API keys 🔑.
+* Allow other users to copy your trades for FREE or with monthly fees. 🆓💸
+* Earn passive income while trading directly on your exchange. 😎💰
+* Track user performance and trading risks.🚦💹
+
+👨🏽‍🤝‍👨🏼 **Referral Program:**
+
+* Earn rewards with each license purchase you refer.
+* The referral program works by allowing users to share a referral code. When used, the referring user automatically receives a percentage of each license purchase, credited directly to their wallet address. This process is decentralized and instant, providing continuous passive income every month.
+
+🔐 **Security and Privacy:**
+
+* All API keys 🔑 and sensitive data are encrypted with double-layer protection using AES encryption in the database.
+* We offer 2FA as an additional security layer within the application.
+
+**Key Features:**
+
+1. ֎ **Automated Trading Bots:**
+   * Customizable bots with strategies optimized for futures and spot trading.
+   * Supports automated trading on Binance and Bybit exchanges.
+   * Enables personalized strategy settings.
+2. 🤝 **Copy Trading:**
+   * Connect with experienced traders and copy their strategies.
+   * Transparency of each trader's performance provides a secure investment environment.
+   * Hemera monitors the trading risk of all users based on historical data.
+3. 📶 **Advanced Indicators:**
+   * **Hemera Indicator v1:** Automate your strategies with our indicator.
+   * **Bullish Trend Catcher Indicator:** A smart trading aid using intersections of 20 technical indicators to determine the % bullish trend.
+4. 📰 **Altcoin Analysis and AI Tools:**
+   * **Crypto News with AI Analysis:** Daily news and market analysis 3 times a day.
+   * **Altcoin Hype Cycle Analysis:** Timely insight into when to start DCA strategies, take profits, or invest more in altcoins.
+   * **AI Portfolio Builder:** Diverse portfolio insights with AI.
+   * **AI Risk Management:** Smart strategies to safeguard investments.
+   * **AI Technical Analysis (TA):** Comprehensive market analysis and trends.
+5. 🖥️ **User-Friendly Interface:**
+   * An intuitive dashboard with easy access to key features.
+   * Allows easy management of bots, tracking traders, and reviewing analytics.
+
+**Future Plans:**
+
+* **🔧 Create Your Own Indicators**: Soon, we will enable users to create their own indicators and strategies and automate them with the help of AI.
+* **🔒 HEM Token Staking**: Users who stake HEM tokens receive additional benefits and access to exclusive tools like Hidden Gems from the Hemera Research team, AI Portfolio Builder, AI Risk Management, and more.
+* **🌾 Farming and Liquidity Mining for HEM Token**: Enable users to earn rewards through farming and providing liquidity.
+* **🌐 Adding More Exchanges and Bots**: Expand trading support to more exchanges and provide new types of trading bots (ATA, DCA...)
+
+
+
+*   **Features in Development:**
+
+    * 📈 **AI Portfolio Builder**: Diverse portfolio insights with AI.
+    * ⚠️ **AI Risk Management**: Smart strategies to safeguard investments.
+
+    \
+
+
+
+
+    <table><thead><tr><th width="279">Functionality</th><th width="115">HemeraAI</th><th>Mizar</th><th width="117">3Commas</th><th width="112">SpectreAI</th><th width="115">XPlusAI</th><th>Cornix</th><th width="146">Binance Bots</th><th>Bybit Bots</th><th width="81">Zignaly</th><th>CryptoHopper</th></tr></thead><tbody><tr><td><strong>Multiple Exchange Support</strong></td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td></tr><tr><td><strong>Automated Trading</strong></td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>AI Trading Tools ( Portfolio, Risk Managament)</strong></td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>❌</td><td>⌛</td><td>✅</td><td>❌</td><td>❌</td></tr><tr><td><strong>Copy Strategies</strong></td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>Advanced Analytics</strong></td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>✅</td></tr><tr><td><strong>Decentralized Trading</strong></td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr><tr><td><strong>Referral Program - Pasive Income</strong></td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>Trading via Telegram Bot</strong></td><td>✅</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>✅</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr><tr><td>( <strong>Smart ) Bots with TradingView</strong></td><td>✅</td><td>❌</td><td>✅</td><td>❌</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>❌</td><td>✅</td></tr><tr><td><strong>Futures/Margin/Spot Bots</strong></td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Personalized Trading Bot</td><td>⌛</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr><tr><td>Bot <strong>Performance Guarantee</strong></td><td>✅</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr><tr><td>Price Prediction Price ( SL/TP and Entry Price)</td><td>✅</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr></tbody></table>
 

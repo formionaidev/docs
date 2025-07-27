@@ -1,3 +1,16 @@
 # Table of contents
 
-* [Page](README.md)
+* [📖 Hemera Trading Ecosystem](README.md)
+* [🔑 How to Start with Hemera? API Connection?](how-to-start-with-hemera-api-connection.md)
+* [🤖 Hemera Smart Trading](hemera-smart-trading.md)
+* [👾 Hemera Trade Vision](hemera-trade-vision.md)
+* [🌐 Hemera Research AI RAG - LLM](hemera-research-ai-rag-llm.md)
+* [🧠 AI Bots](ai-bots.md)
+* [💹 Smart Bots](smart-bots.md)
+* [💡 How to Automate Your Trades with TradingView Alerts on Hemera 📈🔔](how-to-automate-your-trades-with-tradingview-alerts-on-hemera.md)
+* [🪙 HEM token](hem-token.md)
+* [📄 FAQ](faq.md)
+* [👨‍🔬 Thesis](thesis.md)
+* [🪄 Vision](vision.md)
+* [🚩 Roadmap](roadmap.md)
+* [👨‍💻 Team](team.md)
