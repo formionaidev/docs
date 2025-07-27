@@ -1,6 +1,6 @@
 # 🔑 How to Start with Formion AI? API Connection?
 
-**It's important to have some USDT balance ( 10$ at least) on your Futures account on Binance ( or UTA on Bybit ) for Hemera to be able to check your API keys properly!**
+**It's important to have some USDT balance ( 10$ at least) on your Futures account on Binance ( or UTA on Bybit ) for Formion to be able to check your API keys properly!**
 
 ## For Binance:
 
@@ -12,15 +12,15 @@ Then click on **Create API** button and choose **System generated**, put any nam
 
 <figure><img src=".gitbook/assets/binance2.png" alt=""><figcaption></figcaption></figure>
 
-You will get **API keys** but you need now to edit it and put a **whitelisted IPs** from Hemera settings page and then check **Enable Futures** and **Enable Spot & Margin Trading,** save it and copy both **APY key** and **Secret key** and put into **Settings** page on **Formion**, fill your **password** and click on **Submit.**
+You will get **API keys** but you need now to edit it and put a **whitelisted IPs** from Formion settings page and then check **Enable Futures** and **Enable Spot & Margin Trading,** save it and copy both **APY key** and **Secret key** and put into **Settings** page on **Formion**, fill your **password** and click on **Submit.**
 
 <figure><img src=".gitbook/assets/binance3.png" alt=""><figcaption></figcaption></figure>
 
 Now go to **Formion** [Settings page ](https://hemeratrading.net/user/settings)choose **Binance** as exchange and copy **whitelist IPs:**
 
-<figure><img src=".gitbook/assets/settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/binance1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/biannce4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/binance2 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Note: Its important to change mode to HEDGE and Perpetual Margin Mode to CROSS for each USDT pair on Binance Futures!**\\
 
@@ -48,7 +48,7 @@ Click on System-generated API Keys
 
 Now go to Hemera [Settings ](https://hemeratrading.net/user/settings)page and choose Bybit as your exchange, then copy whitelisted IPs
 
-<figure><img src=".gitbook/assets/copyips.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/bybit2 (1).png" alt=""><figcaption></figcaption></figure>
 
 Now here its very important to check Read-Write permission mode and also enable Only IPs mode and your your copied IPs.
 
