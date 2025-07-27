@@ -46,7 +46,7 @@ Click on System-generated API Keys
 
 <figure><img src=".gitbook/assets/bybit2.png" alt=""><figcaption></figcaption></figure>
 
-Now go to Hemera [Settings ](https://hemeratrading.net/user/settings)page and choose Bybit as your exchange, then copy whitelisted IPs
+Now go to Formion [Settings ](https://formion.ai/user/settings)page and choose Bybit as your exchange, then copy whitelisted IPs
 
 <figure><img src=".gitbook/assets/bybit2 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -84,4 +84,4 @@ Or for Bybit
 
 <figure><img src=".gitbook/assets/port2.png" alt=""><figcaption></figcaption></figure>
 
-### If you are able to see your portfolio, congrats! You are now ready to use Hemera Trading App!
+### If you are able to see your portfolio, congrats! You are now ready to use Formion Trading App!
