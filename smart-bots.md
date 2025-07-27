@@ -2,22 +2,22 @@
 
 ## Overview of Smart Bots 🤖
 
-Hemera's Smart Bots implement pre-defined trading strategies based on TradingView indicators. These bots operate on various exchanges, including Binance and Bybit. They offer a simpler, rule-based approach to trading, making them suitable for traders who prefer a more hands-on strategy setup. Currently, Smart Bots operate using long/short and close long/close short commands. Development is underway to implement a DCA (Dollar-Cost Averaging) model with multiple take-profit (TP) levels instead of a single close command.
+Formion's Smart Bots implement pre-defined trading strategies based on TradingView indicators. These bots operate on various exchanges, including Binance and Bybit. They offer a simpler, rule-based approach to trading, making them suitable for traders who prefer a more hands-on strategy setup. Currently, Smart Bots operate using long/short and close long/close short commands. Development is underway to implement a DCA (Dollar-Cost Averaging) model with multiple take-profit (TP) levels instead of a single close command.
 
 #### Difference Between Smart Bots and AI Bots 🧠
 
 While both Smart Bots and AI Bots are designed to enhance trading efficiency, they operate in fundamentally different ways:
 
-* **Smart Bots:** Implement pre-defined trading strategies based on user inputs and TradingView indicators. They offer a simpler, rule-based approach to trading, making them suitable for traders who prefer a more hands-on strategy setup. Smart Bots do not use AI, cannot learn, and can only have their settings adjusted by the Hemera team.
+* **Smart Bots:** Implement pre-defined trading strategies based on user inputs and TradingView indicators. They offer a simpler, rule-based approach to trading, making them suitable for traders who prefer a more hands-on strategy setup. Smart Bots do not use AI, cannot learn, and can only have their settings adjusted by the Formion team.
 * **AI Bots:** Use advanced machine learning algorithms and real-time data analysis to make autonomous trading decisions. These bots are capable of learning, adapting to market conditions, and providing highly optimized trading strategies. AI Bots can be trained and upgraded over time.
 
 #### Automated Trading ⚙️
 
-Smart Bots are designed to execute trades automatically based on predefined strategies set by the Hemera Team. This allows traders to implement consistent strategies without the need for constant monitoring.
+Smart Bots are designed to execute trades automatically based on predefined strategies set by the Formion Team. This allows traders to implement consistent strategies without the need for constant monitoring.
 
 #### Indicator-Based Strategies 📊
 
-Hemera's Smart Bots utilize TradingView indicators such as moving averages, RSI, and Bollinger Bands to make informed trading decisions. Users cannot customize the indicators or strategies, but they can rely on the Hemera team's pre-defined setups.
+Formion's Smart Bots utilize TradingView indicators such as moving averages, RSI, and Bollinger Bands to make informed trading decisions. Users cannot customize the indicators or strategies, but they can rely on the Formion team's pre-defined setups.
 
 #### Customizable Settings 🛠️
 
@@ -25,7 +25,7 @@ Users can customize certain Smart Bot settings according to their preferences. T
 
 #### Getting Started with Smart Bots 🚀
 
-1. **Create an Account:** Sign up on Hemera to start using Smart Bots.
+1. **Create an Account:** Sign up on Formion to start using Smart Bots.
 2. **Choose a License:** Select a suitable license or opt for a 7-day trial available after registration.
 3. **Set Preferences:** Customize your Smart Bot settings, including selecting trading size and leverage.
 4. **Start Trading:** Activate your Smart Bot and let it execute trades based on your predefined strategies.
@@ -37,14 +37,14 @@ Users can customize certain Smart Bot settings according to their preferences. T
 
 #### FAQ ❓
 
-* **What indicators are used?** Hemera Smart Bots use TradingView indicators such as moving averages, RSI, and Bollinger Bands to make trading decisions.
+* **What indicators are used?** Formion Smart Bots use TradingView indicators such as moving averages, RSI, and Bollinger Bands to make trading decisions.
 * **Can I customize my trading strategy?** Users can customize certain Smart Bot settings, including selecting trading size and leverage.
-* **How do I access real-time data?** Real-time data and analytics are available directly on the Hemera platform through your account dashboard.
-* **Is automated trading available?** Yes, Smart Bots are designed to execute trades automatically based on predefined strategies set by the Hemera Team.
-* **What risk management tools are provided?** Hemera Smart Bots offer risk management features, including stop-loss (SL) and take-profit (TP) levels, to protect your investments.
+* **How do I access real-time data?** Real-time data and analytics are available directly on the Formion platform through your account dashboard.
+* **Is automated trading available?** Yes, Smart Bots are designed to execute trades automatically based on predefined strategies set by the Formion Team.
+* **What risk management tools are provided?** Formion Smart Bots offer risk management features, including stop-loss (SL) and take-profit (TP) levels, to protect your investments.
 * **How do Smart Bots differ from AI Bots?** Smart Bots rely on pre-defined strategies and TradingView indicators for a rule-based approach, while AI Bots use machine learning and adaptive algorithms to make autonomous trading decisions.
 
-For additional questions, refer to our [FAQ page](https://docs.hemeratrading.net/faq).
+For additional questions, refer to our [FAQ page](https://docs.formion.ai/faq).
 
 Right now we support BTC, SOL, RUNE and TRB symbols for Smart Bots on Bybit exchange only!\
 \
@@ -74,6 +74,6 @@ _**If you want to use full amount as position size ( 100% Portfolio percentage )
 
 #### Conclusion 🏁
 
-Hemera's Smart Bots provide traders with the tools and insights needed to automate their trading strategies effectively. Whether you are new to trading or an experienced investor, our Smart Bots offer advanced features to enhance your market performance. Join Hemera today and take advantage of automated, indicator-based trading.
+Formion's Smart Bots provide traders with the tools and insights needed to automate their trading strategies effectively. Whether you are new to trading or an experienced investor, our Smart Bots offer advanced features to enhance your market performance. Join Formion today and take advantage of automated, indicator-based trading.
 
-For more details, please visit our [Dashboard](https://hemeratrading.net/smart-bots).
+For more details, please visit our [Dashboard](https://formion.ai/smart-bots).

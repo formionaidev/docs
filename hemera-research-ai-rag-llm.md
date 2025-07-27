@@ -1,18 +1,18 @@
-# 🌐 Hemera Research AI RAG - LLM
+# 🌐 Formion Research AI RAG - LLM
 
-## **Hemera Research AI RAG - LLM: Detailed Overview and Benefits** 🌟
+## **Formion Research AI RAG - LLM: Detailed Overview and Benefits** 🌟
 
-**What is Hemera Research AI RAG - LLM?**
+**What is Formion Research AI RAG - LLM?**
 
-Hemera Research AI RAG - LLM is an advanced AI-driven system integrated into the Hemera Trading platform. RAG stands for **Retrieval-Augmented Generation**, while LLM refers to **Large Language Models**. This powerful combination allows the system to retrieve relevant information and generate highly accurate, contextually relevant reports tailored to users’ needs. The system is designed to help users navigate the complex and volatile cryptocurrency market by providing detailed research reports, technical analyses, and portfolio recommendations based on real-time data. 📊
+Formion Research AI RAG - LLM is an advanced AI-driven system integrated into the Formion platform. RAG stands for **Retrieval-Augmented Generation**, while LLM refers to **Large Language Models**. This powerful combination allows the system to retrieve relevant information and generate highly accurate, contextually relevant reports tailored to users’ needs. The system is designed to help users navigate the complex and volatile cryptocurrency market by providing detailed research reports, technical analyses, and portfolio recommendations based on real-time data. 📊
 
 #### **Key Features and Capabilities** 🚀
 
 1. **Portfolio Builder** 🛠️:
-   * One of the standout features of the Hemera Research AI RAG - LLM is the **Portfolio Builder**. This tool allows users to create a detailed investment portfolio based on specific input parameters such as budget and risk level. Users can choose from different risk levels: **low, medium, high, very high,** and **gambling**. 🎯
+   * One of the standout features of the Formion Research AI RAG - LLM is the **Portfolio Builder**. This tool allows users to create a detailed investment portfolio based on specific input parameters such as budget and risk level. Users can choose from different risk levels: **low, medium, high, very high,** and **gambling**. 🎯
    * Once these parameters are set, the AI system conducts thorough research to identify the most suitable assets for the portfolio, taking into account the user’s preferences. The result is a comprehensive PDF report that includes detailed recommendations on asset allocation, purchase amounts, and expected holding periods, tailored to the user's risk tolerance and investment goals. 📄
 2. **Comprehensive and Customizable Reports** 📑:
-   * The Hemera Research AI RAG - LLM system also excels in generating various types of detailed reports, as seen in the interface provided. Users can select from a range of report templates, including:
+   * The Formion Research AI RAG - LLM system also excels in generating various types of detailed reports, as seen in the interface provided. Users can select from a range of report templates, including:
      * **Comprehensive Analysis**: A broad overview that covers all aspects of a particular asset, including market trends, technical indicators, and fundamental data.
      * **Technical Analysis**: Focuses specifically on technical indicators such as moving averages, support and resistance levels, and other chart patterns to provide actionable trading insights. 📈
      * **Market Overview**: Offers a snapshot of the current market conditions, including price movements, volume, and general market sentiment.
@@ -34,7 +34,7 @@ Hemera Research AI RAG - LLM is an advanced AI-driven system integrated into the
 
 #### **Benefits for Users** 💡
 
-Hemera Research AI RAG - LLM offers several significant benefits that make it a valuable tool for traders and analysts in the cryptocurrency market:
+Formion Research AI RAG - LLM offers several significant benefits that make it a valuable tool for traders and analysts in the cryptocurrency market:
 
 1. **Tailored Portfolio Recommendations** 🎯:
    * The Portfolio Builder feature empowers users to create customized investment portfolios based on their budget and risk tolerance. This ensures that the portfolio is aligned with their financial goals and risk appetite, whether they prefer conservative investments or are willing to take on more risk for potentially higher returns.
@@ -45,12 +45,12 @@ Hemera Research AI RAG - LLM offers several significant benefits that make it a 
 4. **Customization and Flexibility** 🎛️:
    * The system’s ability to generate reports based on user-defined templates allows for a high degree of customization. Users can receive reports tailored to their specific strategies and goals, whether they need a market overview, technical analysis, or a detailed investment strategy.
 5. **Efficiency and Time-Saving** ⏳:
-   * Hemera Research AI RAG - LLM automates the entire research process, from data collection to report generation. This saves users significant time and effort, allowing them to focus on other critical aspects of their trading or investment strategies.
+   * Formion Research AI RAG - LLM automates the entire research process, from data collection to report generation. This saves users significant time and effort, allowing them to focus on other critical aspects of their trading or investment strategies.
 6. **Precision and Dependability** 🛡️:
    * The system employs rigorous backtesting and continuous learning methods to ensure that the reports generated are both precise and dependable. By constantly refining its models with new data, the system adapts to changing market conditions, providing users with accurate and reliable insights.
 7. **Ease of Use** 🎨:
-   * Despite the complexity of the technology behind it, Hemera Research AI RAG - LLM is designed to be user-friendly. The interface is intuitive, and the process is streamlined, making advanced AI tools accessible even to users without technical expertise.
+   * Despite the complexity of the technology behind it, Formion Research AI RAG - LLM is designed to be user-friendly. The interface is intuitive, and the process is streamlined, making advanced AI tools accessible even to users without technical expertise.
 
 #### **Conclusion** 🎉
 
-Hemera Research AI RAG - LLM is a cutting-edge tool that enhances the research and decision-making capabilities of users on the Hemera Trading platform. By leveraging retrieval-augmented generation and large language models, it provides comprehensive, real-time analysis that is both precise and reliable. Whether you are a trader looking to optimize your strategies, an analyst seeking detailed market insights, or an investor aiming to build a tailored portfolio, Hemera Research AI RAG - LLM offers the tools you need to succeed in the dynamic world of cryptocurrency trading. 🌐
+Formion Research AI RAG - LLM is a cutting-edge tool that enhances the research and decision-making capabilities of users on the Formion Trading platform. By leveraging retrieval-augmented generation and large language models, it provides comprehensive, real-time analysis that is both precise and reliable. Whether you are a trader looking to optimize your strategies, an analyst seeking detailed market insights, or an investor aiming to build a tailored portfolio, Formion Research AI RAG - LLM offers the tools you need to succeed in the dynamic world of cryptocurrency trading. 🌐

@@ -1,14 +1,14 @@
-# 💡 How to Automate Your Trades with TradingView Alerts on Hemera 📈🔔
+# 💡 How to Automate Your Trades with TradingView Alerts on Formion 📈🔔
 
-Automating your trades on Hemera using TradingView alerts is a seamless and powerful way to execute your trading strategies without manual intervention. Follow these steps to set up and start automating your trades efficiently.
+Automating your trades on Formion using TradingView alerts is a seamless and powerful way to execute your trading strategies without manual intervention. Follow these steps to set up and start automating your trades efficiently.
 
 #### Step-by-Step Guide
 
-#### 1. Access the TradingView Bot Page on Hemera 🌐
+#### 1. Access the TradingView Bot Page on Formion 🌐
 
-Navigate to the TradingView bot page on Hemera to set up your bot:
+Navigate to the TradingView bot page on Formion to set up your bot:
 
-1. **Login** to your Hemera account.
+1. **Login** to your Formion account.
 2. Go to the **TradingView Bot** section (`twbot.php`).
 
 #### 2. Create a New TradingView Bot 🤖
@@ -26,23 +26,21 @@ Click on the **Create TradingView Bot** button to set up a new bot:
 5. **Leverage:** Set your leverage if you choose `USD-M`.
 6. **Investment Amount:** Enter the amount you want to invest per trade.
 
-After filling in the details, click on the **Create Bot** button. Hemera will automatically generate the necessary UUIDs for opening and closing positions.
+After filling in the details, click on the **Create Bot** button. Formion will automatically generate the necessary UUIDs for opening and closing positions.
 
 #### 3. Configure the Webhook URL on TradingView 🔗
 
-To automate your trades, you'll need to configure alerts on TradingView using Hemera's webhook URL.
+To automate your trades, you'll need to configure alerts on TradingView using Formion's webhook URL.
 
 1. **Open TradingView:**
    * Go to [TradingView](https://www.tradingview.com/).
 2. **Set Up Alerts:**
    * Click on the `Alert` icon or right-click on your chart and select `Add Alert`.
    * Choose the condition based on your strategy (e.g., `Crossing`, `Moving Up`).
-   * On message field put [_<mark style="color:orange;">**`{{strategy.order.alert_message}}`**</mark>_](#user-content-fn-1)[^1]
+   * On message field put _<mark style="color:orange;">**`{{strategy.order.alert_message}}`**</mark>_
 3. **Webhook URL:**
    * In the alert creation menu, find the `Webhook URL` field.
-   * Enter the Hemera webhook URL: `https://hemeratrading.net/webhook.php`.
-
-
+   * Enter the Formionwebhook URL: `https://formion.ai/webhookformion.php`.
 
 <figure><img src=".gitbook/assets/alertwebhook.png" alt=""><figcaption><p>Make sure Webhook URL is https://hemeratrading.net/webhookhemera.php</p></figcaption></figure>
 
@@ -85,10 +83,8 @@ To automate short positions, create a separate bot for short trades:
 * ⚙️ Activate and Test Your Bot
 * 📉 Repeat for Short Positions
 
-By following these steps, you'll be able to automate your trades seamlessly using Hemera and TradingView alerts. Happy trading! 🚀\
+By following these steps, you'll be able to automate your trades seamlessly using Formion and TradingView alerts. Happy trading! 🚀\
 \
 Here is some images how it works.
 
 <div><figure><img src=".gitbook/assets/twbot1.png" alt=""><figcaption><p>Avax Long TradingView Bot</p></figcaption></figure> <figure><img src=".gitbook/assets/twbot2.png" alt=""><figcaption><p>Executed alert for close order on binance</p></figcaption></figure> <figure><img src=".gitbook/assets/twbot3.png" alt=""><figcaption><p>Telegram information about trade.</p></figcaption></figure></div>
-
-[^1]: 

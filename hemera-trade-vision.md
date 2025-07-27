@@ -12,7 +12,7 @@
 
 🤖 Another big update to look forward to is our **AI-driven analysis and recommendations**. This feature will provide personalized insights based on market trends and your trading history, helping you make more informed decisions. Whether you’re focusing on long-term investments or short-term trades, our AI will be there to guide you.
 
-These updates are designed to make trading on Hemera even more powerful and user-friendly. We’re excited to roll them out and believe they’ll significantly enhance the functionality of the platform, making it easier for you to trade smarter and more efficiently. 💪
+These updates are designed to make trading on Formion even more powerful and user-friendly. We’re excited to roll them out and believe they’ll significantly enhance the functionality of the platform, making it easier for you to trade smarter and more efficiently. 💪
 
 #### 🔍 How It Works:
 
